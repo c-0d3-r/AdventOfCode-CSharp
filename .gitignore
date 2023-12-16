@@ -1,0 +1,36 @@
+# General
+
+**/bin/
+
+**/obj/
+
+
+
+# IDE Files
+
+**/.vs/
+
+**/*.user
+
+**/*.suo
+
+**/*.cache
+
+**/*.log
+
+
+
+# Package files
+
+**/packages/
+
+**/*.csproj.user
+
+
+
+# Secret keys or sensitive information
+
+**/appsettings.json # or any other config files containing sensitive data
+
+# Input
+**/input.txt
